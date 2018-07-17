@@ -1,0 +1,26 @@
+gallery{
+    width: 230px;
+    padding: 5px;
+    margin: 10px 10px
+}
+
+.gallery img{
+    width: 230px;
+    padding: 5px;
+    transition: 1s;
+}
+
+.gallery img:hover{
+    transform: scale(1.1)
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: burlywood;
+}
+
+.paragraph
+{
+padding: =20px;    
+    
+}
